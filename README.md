@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">Ventoy IOS thème </h1>
-<h6 align="center">An IOS thème for Ventoy multiboot system.</h6>
+<h6 align="center">An IOS theme for Ventoy multiboot system.</h6>
 
 <br>
   
@@ -10,7 +10,7 @@
 
 <br>
 
-### Install . . .
+### Installation . . .
 
 [ENG]
 - Extract the compressed file and copy the "ventoy" folder to the root of the partition where your ISOs are located.
